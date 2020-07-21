@@ -1,5 +1,5 @@
 # FCC_RandomQuoteMachine
-Front End Libraries Projects - Build a Random Quote Machine
+Front End Libraries Projects - Build a Random Quote Machine.
 Page can be viewed at https://codepen.io/supermeawesome/full/WNQdXKQ
 
 Technologies/Resources used:
